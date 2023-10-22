@@ -1,6 +1,6 @@
 # Sicoob - equipe Limbo
 
-Bem-vindo ao Projeto RoadUAI, uma iniciativa da equipe composta por Messias Feres, Caio Augusto, Gustavo Romão, Samuel Cristian e Hugo Salgado. 
+Bem-vindo ao Projeto RoadUAI, uma iniciativa da equipe composta por Caio Augusto, Messias Feres, Gustavo Romão, Samuel Cristian e Hugo Salgado. 
 Este repositório contém um site desenvolvido para apresentar nosso aplicativo, que tem como objetivo promover o turismo na região das Vertentes.
 
 ## Sobre o Projeto
