@@ -1,0 +1,21 @@
+nome,email,senha,cidade_natal,genero,idade,latitude,longitude
+Alice,alice@example.com,senha123,New York,Feminino,28,40.7128,-74.0060
+Bob,bob@example.com,password456,Los Angeles,Masculino,35,34.0522,-118.2437
+Charlie,charlie@example.com,secret789,Chicago,Masculino,42,41.8781,-87.6298
+David,david@example.com,p@ssw0rd,Miami,Masculino,30,25.7617,-80.1918
+Eve,eve@example.com,securepwd,Seattle,Feminino,25,47.6062,-122.3321
+Frank,frank@example.com,frankie,Denver,Masculino,33,39.7392,-104.9903
+Grace,grace@example.com,grace123,San Francisco,Feminino,29,37.7749,-122.4194
+Henry,henry@example.com,hank42,Boston,Masculino,38,42.3601,-71.0589
+Ivy,ivy@example.com,ivySecret,Atlanta,Feminino,27,33.7490,-84.3880
+Jack,jack@example.com,jackpwd,Philadelphia,Masculino,31,39.9526,-75.1652
+Katie,katie@example.com,kat123,Phoenix,Feminino,24,33.4484,-112.0740
+Leo,leo@example.com,leonardo,Austin,Masculino,36,30.2672,-97.7431
+Maria,maria@example.com,mariapass,Houston,Feminino,26,29.7604,-95.3698
+Nathan,nathan@example.com,nat@123,Dallas,Masculino,32,32.7767,-96.7970
+Olivia,olivia@example.com,olivia567,Portland,Feminino,23,45.5051,-122.6750
+Peter,peter@example.com,peterpass,Orlando,Masculino,40,28.5383,-81.3792
+Quinn,quinn@example.com,quinnpwd,Miami,Feminino,30,25.7617,-80.1918
+Robert,robert@example.com,rob123,Chicago,Masculino,37,41.8781,-87.6298
+Sarah,sarah@example.com,sarahpwd,Los Angeles,Feminino,35,34.0522,-118.2437
+Tyler,tyler@example.com,tylerSecret,New York,Masculino,29,40.7128,-74.0060
